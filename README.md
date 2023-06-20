@@ -1,5 +1,5 @@
 # Number Guessing Game
-
+<img src="https://raw.githubusercontent.com/thiagodnf/guess-the-number/master/images/logo.png?token=AAG9XwrL-t72tifQ-eA47lewNBqqV9Nwks5cDnuJwA%3D%3D" width=450>
 This is a simple number guessing game implemented in C++. The program generates a random number between 1 and 100, and the player needs to guess the correct number.
 
 ## How to Play
