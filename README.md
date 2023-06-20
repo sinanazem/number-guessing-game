@@ -23,14 +23,14 @@ To run the game on your local machine, follow these steps:
 5. Play the game!
 
 ## Example Usage
-
+```
 Enter your guess (1-100): 50
 Too high! Try again.
 Enter your guess (1-100): 25
 Too low! Try again.
 Enter your guess (1-100): 37
 Congratulations! You guessed the number in 3 tries.
-
+```
 
 ## Contributing
 
